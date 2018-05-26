@@ -1,0 +1,112 @@
+{
+ "proverb":
+[ 
+  {
+      "author":"AESOP",
+       "said":
+          ["Appearances often are deceiving",
+           "አቀራረብ ብዙ ጊዜ አሳሳች ነው፡፡",
+           "Slow and steady Wins the race",
+          "የተረጋጋና ዝግ ያለ ውድድሩን ያሸንፋል።"
+        ] 
+ },
+ {"author":"Aristotle",
+   "said":["We would often be sorry if our Wishes were gratif‌ied",
+           "ምኞታችን ሲሳካ ብዙ ጊዜ ሀዘን ይሰማናል፡፡",
+           "Hope is a waking dream",
+           "ተስፋ የነቃ ህልም ነው።",
+           "What is a friend? Single Soul dwelling in two bodies.",
+           "ጓደኛ ምንድን ነው ? በሁለት አካል ውስጥ ያለ አንድ ነፍስ።",
+           "Without friends no one would choose to live though he had all other goods.",
+           "ሁሉ ነገር ቢኖረውም እንኳን ማንም ሰው ያለጓደኛ መኖር አይመርጥም፡፡",
+           "To do two things at once is to do neither.",
+           "ሁለት ነገር ባንዴ መስራት ማለት ሁለቱንም አለመስራት ነው።",
+           "A good reputation is more valuable than money",
+           "መልካም ስም ከገንዘብ የላቀ ዋጋ አለው፡፡",
+           "Many receive advice few prof‌it by it.",
+           "ብዙ ሰዎች ምክር ይቀበሳሉ ጥቂቶች ብቻ ያተርፉበታል።",
+           "The bow too tensely strung is easily broken.",
+           "በጣም የተወጠረ ቀስት በቀላሉ ይሰበራል።",
+           "A rolling stone gathers no.",
+           "የሚንከባለል ድንጋይ ብዙ ቆሻሻ አይዝም፡፡"
+         ] 
+  },
+  {"author":"FRANCIS BACON",
+    "said":
+    ["Without shepherd sheep are not a f‌lock.",
+      "ካለ እረኛ በጎች መንጋ አይሆኑም፡፡",
+       "Knowledge is power.",
+       "እውቀት ሀይል ነው፡፡",
+       "Nothing is terrible except fear itself.",
+       "እንደ ፍርሀት ያለ አሰቃቂ ነገር የለም።",
+       "All colours will agree in the dark.",
+       "ቀለማትን ሁሉ ጨለማ ያዋህዳል፡፡",
+       "some books are to be tasted, others to be swallowed,and some few to be chewed and digested.",
+       "ጥቂት መጽሀፍ ይቀመሳሉ ጥቂቶች ይዋጣሉ በጣም ጥቂቶቾ  ግን ተለውጠው ይዋሀዳሉ።",
+       "Fame is like a river, that beareth up things light and swollen,and drowns things weighty and solid.",
+       "ዝና እንደወንዝ ነው፡ ቀላልና ገለባ የሆኑ ነገሮችን ያንሳፍፋል ጠጣርና ከባድ የሆኑትን ያሰምጣል።",
+       "Reading makes a full man, conference a ready man,and writing an exact man.",
+       "ንባብ ሙሉ ሰው ያደርጋል፤ ኮንፈረንስ ዝግጁ ሰው ያደርጋል፤ መፃፍ ትክክለኛ ሰው ያደርጋል፡፡"    
+      ]
+   },
+   {"author":"WILLIAM BLAKE",
+     "said":
+     ["You never know what is enough unless you know what is more than enough.",
+       "ከልክ በላይ ምን እንደሆነ ካላወቅ ልክ ማለት ምን እንደሆነ ልታውቅ አትችልም"  
+     ] 
+   },
+   {"author":"CHARLES LAMB",
+    "said":
+    ["Improvement makes straight roads but the crooked roads with out improvement are roads of genius.",
+      "መሻሻል ቀጥ ያለ፡ መንገዶችን ያሰራል ነገር ግን ያልተሻሻሉ ወጣ ገባ መንገዶች የከሳቴ ብርሃናት መንገዶች ናቸው። " ,
+      "It is good to love the unknown.",
+      "የማይታወቀውን መውደድ ጥሩ ነው፡፡",
+      "I love to lose myself in other men’s minds, When I am not Walking, I am reading,I Cannot sit and think.Books think for me.",
+      "ራሴን በሌሎች ጭንቅላት ውስጥ መርሳት እወዳለሁ በማልንቀሳቀስበት ጊዜ አስባለሁ። ቁጭ ብዬ ማሰብ አልችልም መጽሀፍት ለኔ ያስቡልኛል። "
+    ]
+   },
+   {"author":"ALEXANDER DUMAS",
+     "said":
+     ["Pain is life the sharper, the more evidence of life.",
+      "ህመም ህይወት ነው። ጽኑ በሆነ ቁጥር የበለጠ ለህይወት ማረጋገጫ ይሆናል፡፡",
+      "Nothing succeeds like success.",
+      "እንደ ስኬት የተሳካለት የለም፡፡",
+      "A good surgeon operates with his hand, not with his heart.",
+      "ጥሩ ቀዶ ጠጋኝ በእጁ እንጂ በልቡ አይቀድም፡፡"
+    ]
+  },
+  {"author":"LEONARDO DAVE CHI",
+     "said":
+     ["All generalizations are dangerous. even this one.",
+      "ሁሉም በደፈናዎች አደገኞች ናቸው ይህ ራሱ ጭምር",
+      "Life well spent is long.",
+      "በሚገባ የተጠቀምክበት ህይወት ረጅም ነው፡፡",
+      "It is easier to resist at the beginhing than at the end.",
+      "ከመጨረሻ ይልቅ መጀመሪያ ላይ መከላከል ይቀላል።",
+      "Painting is poetry which is seen and not heard and poetry is a Painting which is heard but not seen.",
+      "ስዕል ቅኔ ነው የማይሰማ ግን የሚታይ:ግጥም ደግሞ የሚታይ ግን የሚደመጥ ስእል ነው።",
+      "While I thought that I was learning how to live, I have been learning how to die.",
+      "እንዴት መኖር እንዳለብኝ እየተማርኩ እንደሆነ ሳስብ እንዴት መሞት እንዳለብኝ እየተማርኩኝ ነበር።",
+      "Iron rusts from disuse, stagnant water loses its purity and in cold weather becomes frozen even so does inaction sap the vigor of the mind.",
+      "ብረት ካልተጠቀሙበት ይዝጋል፤ ውሃም ሲረጋ ጥራቱን ያጣል፤እናም በቀዝቃዛ አየር አመዳይ ይሆናል፤ እንዲሁ የማያስብ ጭንቅላት፡፡"   
+    ]
+  },
+  {"author":"VOLTAIRE",
+    "said":
+    ["He is a hard man who is only just, and sad one who is only wise.",
+      "ትክክል ብቻ የሆነ ሰው ጠንካራ ሰው ነው፡፡ ብልህ ብቻ የሆነ ሰው ደግም ሀዘንተኛ ነው፡፡",
+      "Love truth but pardon error.",
+      "እውነትን ውደድ ግን ለስህተት ይቅርታ አድርግ።",
+      "It is better to risk saving a guilty person than to condemn an innocent one.",
+      "አንድ ንፁሀ ሰው ከመወንጀል አንድ ወንጀለኛ ሰው ማዳን ይሻላል።",
+      "Work keeps us from three great evils, boredom, vice and poverty.",
+      " ስራ ከሶስት ታላላቅ ሰይጣናዊ ድርጊቶች ይጠብቀናል፡፡ እነሱም ስንፍና ክፉ ተግባርና ድህነት ናቸው።",
+      "All styles are good except the tiresome sort.",
+      "ታላላቆቹ አጭበርባሪዎቸ እነማን ናቸው። ሀኪምች ？ታላላቆቹ ጅሎቸስ？ በሸተኞች።"
+        
+    ]
+
+  }
+
+]
+}
